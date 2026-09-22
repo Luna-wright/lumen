@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "lumen"
+message: "If you use this work, please cite or link to the repository."
+type: software
+authors:
+  - name: "Luna-wright"
+repository-code: "https://github.com/Luna-wright/lumen"
+license: MIT
+date-released: 2026-09-22
+version: 0.1.0
